@@ -6,7 +6,7 @@ It is a CRUD operation based ( Create, Read, Update, Delete) API. Users can add 
 The API is created using C#. It is fully tested using [xUnit](https://xunit.net/) test framework. MongoDB was used as the Database to keep the items. Furthermore, it was containerized using Docker and Kubernetes
 
 # Tech stack used
-C#- The API was written in C#
+C#- The Catalogue API was written in C#
 
 xUnit- The API was tested using the xUnit framework
 
